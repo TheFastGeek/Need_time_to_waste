@@ -9,3 +9,8 @@ Be the last player standing to win !
 
 ## Where to download
 The game is available on itch.io. Follow [this link](https://fastgeek.itch.io/need-time-to-waste) to download it.
+
+## Ressouces
+Graphics : Some assets come from [https://game-icons.net/](https://game-icons.net/), the others are hand drawn
+Fonts : [https://fontmeme.com/fonts/pixel-operator-font/](https://fontmeme.com/fonts/pixel-operator-font/)
+Sounds : All from [https://pixabay.com/](https://pixabay.com/)
